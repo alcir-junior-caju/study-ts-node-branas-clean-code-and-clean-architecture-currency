@@ -15,6 +15,11 @@ Curso do Rodrigo Branas sobre Microservices com TypeScript e Clean Code, Refacto
 
 ---
 
+#### Repositório Pai
+https://github.com/alcir-junior-caju/study-ts-node-branas-clean-code-and-clean-architecture
+
+---
+
 #### Visualizar o projeto na IDE:
 
 Para quem quiser visualizar o projeto na IDE clique no teclado a tecla `ponto`, esse recurso do GitHub é bem bacana

@@ -9,4 +9,7 @@ app.get("/currencies", async function (req: Request, res: Response) {
   });
 });
 
-app.listen(3010);
+const port = 3010;
+app.listen(port);
+console.log("Service: ", "API Currency");
+console.log("Port: ", port);
